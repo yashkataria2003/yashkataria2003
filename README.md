@@ -1,3 +1,5 @@
+<img src='https://github.com/yashkataria2003/yashkataria2003/blob/main/IMG_20250209_131311.jpg?raw=true' width="100%">
+
 <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
